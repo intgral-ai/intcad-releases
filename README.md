@@ -1,0 +1,1 @@
+# Intcad releases\n\nInstallers, release notes, SHA256SUMS.txt and its minisign signature. No source.\n
